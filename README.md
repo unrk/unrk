@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Honnest
-- 👀 I’m interested in learning things
-- 🌱 I’m currently learning things like i said
-- 📫 Add me on discord 'nothonnest' to reach me
-- ⚡ Fun fact: I'm a skid
+hi
