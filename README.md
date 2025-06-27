@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning `JavaScript`, `css`, `Python`.
 - 📫 Discord: `memolr` 
 - 🖼️ Behance: [memoircourte](https://behance.net/memoircourte/)
-- Paypal: [Donate here !](https://paypal.me/cliniqueveterinaire) 
+- 💰 Paypal: [Donate here !](https://paypal.me/cliniqueveterinaire) 
 
 
 <p align="center"><img align="center" src="/images/cooking.gif"></p>
