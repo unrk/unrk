@@ -15,7 +15,6 @@
 
 <p align="center"><img align="center" src="/images/cooking.gif"></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=unrk"></p>
 <div align="center">
 </div>
 
