@@ -8,7 +8,7 @@
 
 
 - 🐈 I'm Felix
-- 🌱 I’m currently learning `JavaScript`, `css`.
+- 🌱 I’m currently learning `JavaScript`, `css`, `SQL`.
 - 📫 Discord: `memolr` 
 - 🖼️ Behance: [memoircourte](https://behance.net/memoircourte/)
 
